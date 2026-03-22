@@ -1,4 +1,4 @@
-package com.umcap.ems_backend;
+package com.umcap.ems;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
