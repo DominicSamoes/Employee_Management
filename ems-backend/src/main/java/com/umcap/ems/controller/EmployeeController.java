@@ -19,7 +19,7 @@ import com.umcap.ems.service.EmployeeService;
 
 import lombok.AllArgsConstructor;
 
-@CrossOrigin("*")
+@CrossOrigin(origins = "http://localhost:3000")
 @AllArgsConstructor
 @RestController
 @RequestMapping("/api/employees")
